@@ -1,2 +1,2 @@
 # bongxinh.github.io
-My personal website
+Learning github is fun
